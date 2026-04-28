@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T21:50:56.757Z",
-  "count": 33,
+  "generated_at": "2026-04-28T10:50:00.017Z",
+  "count": 34,
   "packages": [
     {
       "id": "2010s-indie-horror",
@@ -128,6 +128,22 @@
         "Dust2.zip": "{GameHDD}"
       },
       "version": "1.0.1"
+    },
+    {
+      "id": "deadmau5",
+      "name": "deadmau5 Skins",
+      "author": "CodeGuyEli",
+      "description": "deadmau5's skin in multiple colors",
+      "extended_description": "",
+      "category": [
+        "Skin",
+        "DLC"
+      ],
+      "thumbnail": "thumbnail.png",
+      "zips": {
+        "deadmau5.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
     },
     {
       "id": "edmundmcmillenpack",
